@@ -20,7 +20,7 @@ namespace WinFormsApp3
             }
             if (kontrol !=0)
             {
-                MessageBox.Show("deðil");
+                MessageBox.Show("degil");
             }
             else
             {
